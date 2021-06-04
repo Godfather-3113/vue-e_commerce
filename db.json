@@ -1,0 +1,56 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "categories_name": "Male"
+    },
+    {
+      "id": 2,
+      "categories_name": "Female"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "categories_id": 1,
+      "product_name": "рубашка джинсовая свободного кроя",
+      "price": 2299,
+      "remainder": 12
+    },
+    {
+      "id": 2,
+      "categories_id": 1,
+      "product_name": "куртка мужская",
+      "price": 1619,
+      "remainder": 200
+    },
+    {
+      "id": 3,
+      "categories_id": 1,
+      "product_name": "куртка-бомбер свободного кроя",
+      "price": 2999,
+      "remainder": 40
+    },
+    {
+      "id": 4,
+      "categories_id": 2,
+      "product_name": "блузка свободного кроя с отложным воротником и удлиненной",
+      "price": 1039,
+      "remainder": 300
+    },
+    {
+      "id": 5,
+      "categories_id": 2,
+      "product_name": "футболка трикотажная в мелкий рубчик с рукавами-фонариками",
+      "price": 479,
+      "remainder": 500
+    },
+    {
+      "id": 6,
+      "categories_id": 2,
+      "product_name": "футболка хлопковая прямого кроя с принтом и удлиненной спинкой",
+      "price": 419,
+      "remainder": 1000
+    }
+  ]
+}
