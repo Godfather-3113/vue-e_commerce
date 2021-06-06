@@ -12,43 +12,156 @@
   "products": [
     {
       "id": 1,
+      "categories_name": "Male",
       "categories_id": 1,
-      "product_name": "рубашка джинсовая свободного кроя",
+      "product_name": "рубашка джинсовая",
       "price": 2299,
-      "remainder": 12
+      "remainder": 12,
+      "discount": 20
     },
     {
       "id": 2,
       "categories_id": 1,
+      "categories_name": "Male",
       "product_name": "куртка мужская",
       "price": 1619,
       "remainder": 200
     },
     {
       "id": 3,
+      "categories_name": "Male",
       "categories_id": 1,
-      "product_name": "куртка-бомбер свободного кроя",
+      "product_name": "куртка-бомбер",
       "price": 2999,
-      "remainder": 40
+      "remainder": 40,
+      "discount": 15
     },
     {
       "id": 4,
       "categories_id": 2,
-      "product_name": "блузка свободного кроя с отложным воротником и удлиненной",
+      "categories_name": "Female",
+      "product_name": "блузка свободного",
       "price": 1039,
       "remainder": 300
     },
     {
       "id": 5,
       "categories_id": 2,
-      "product_name": "футболка трикотажная в мелкий рубчик с рукавами-фонариками",
+      "categories_name": "Female",
+      "product_name": "футболка трикотажная",
       "price": 479,
       "remainder": 500
     },
     {
       "id": 6,
       "categories_id": 2,
-      "product_name": "футболка хлопковая прямого кроя с принтом и удлиненной спинкой",
+      "categories_name": "Female",
+      "product_name": "футболка хлопковая",
+      "price": 419,
+      "remainder": 1000
+    },
+    {
+      "id": 7,
+      "categories_id": 2,
+      "categories_name": "Female",
+      "product_name": "футболка хлопковая",
+      "price": 419,
+      "remainder": 1000
+    },
+    {
+      "id": 8,
+      "categories_id": 2,
+      "categories_name": "Female",
+      "product_name": "футболка хлопковая",
+      "price": 419,
+      "remainder": 1000
+    },
+    {
+      "id": 9,
+      "categories_id": 2,
+      "categories_name": "Male",
+      "product_name": "футболка хлопковая",
+      "price": 419,
+      "remainder": 1000
+    },
+    {
+      "id": 10,
+      "categories_id": 2,
+      "categories_name": "Male",
+      "product_name": "футболка хлопковая",
+      "price": 419,
+      "remainder": 1000
+    },
+    {
+      "id": 11,
+      "categories_id": 2,
+      "categories_name": "Male",
+      "product_name": "футболка хлопковая",
+      "price": 419,
+      "remainder": 1000
+    },
+    {
+      "id": 12,
+      "categories_id": 2,
+      "categories_name": "Female",
+      "product_name": "футболка хлопковая",
+      "price": 419,
+      "remainder": 1000
+    },
+    {
+      "id": 13,
+      "categories_id": 2,
+      "categories_name": "Female",
+      "product_name": "футболка хлопковая",
+      "price": 419,
+      "remainder": 1000
+    },
+    {
+      "id": 14,
+      "categories_id": 2,
+      "product_name": "футболка хлопковая",
+      "price": 419,
+      "remainder": 1000
+    },
+    {
+      "id": 15,
+      "categories_id": 2,
+      "product_name": "футболка хлопковая",
+      "price": 419,
+      "remainder": 1000
+    },
+    {
+      "id": 16,
+      "categories_id": 2,
+      "product_name": "футболка хлопковая",
+      "price": 419,
+      "remainder": 1000
+    },
+    {
+      "id": 17,
+      "categories_id": 2,
+      "product_name": "футболка хлопковая",
+      "price": 419,
+      "remainder": 1000
+    },
+    {
+      "id": 18,
+      "categories_id": 2,
+      "product_name": "футболка хлопковая",
+      "price": 419,
+      "remainder": 1000
+    },
+    {
+      "id": 19,
+      "categories_id": 2,
+      "product_name": "футболка хлопковая",
+      "price": 419,
+      "remainder": 1000
+    },
+    {
+      "id": 20,
+      "categories_id": 2,
+      "product_name": "футболка хлопковая",
       "price": 419,
       "remainder": 1000
     }

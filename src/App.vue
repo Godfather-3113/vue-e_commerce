@@ -1,16 +1,17 @@
 <template>
   <div id="app">
-    <h1>Hello Vue</h1>
+    <h1> Send msg Telegram: <a href="https://t.me/Shutterstock777" style="text-decoration: none; color: red; " >Махкамов Алишер</a>  </h1>
+      <v-main-wrapper />
   </div>
 </template>
 
 <script>
-
+import vMainWrapper from './components/v-main-wrapper'
 
 export default {
   name: 'App',
   components: {
-
+    vMainWrapper
   }
 }
 </script>
